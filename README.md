@@ -1,3 +1,3 @@
-# computer-vision
+# Computer Vision
 
-Experimenting
+Experimenting with computer vision and VLM for initiative project
